@@ -5,7 +5,7 @@
 
   :dependencies [[cheshire "5.8.1"]
                  [clojure.java-time "0.3.2"]
-                 [com.h2database/h2 "1.4.197"]
+                 [org.xerial/sqlite-jdbc "3.25.2"]
                  [conman "0.8.3"]
                  [cprop "0.1.13"]
                  [funcool/struct "1.3.0"]
